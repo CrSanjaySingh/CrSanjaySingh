@@ -8,11 +8,9 @@ I am a PHP Web Developer having good knowledge of Laravel, Vue3, CodeIgniter, AP
 - Languages: PHP and Javascript
 - Frontend Frameworks & Libraries: Bootstrap, Jquery, Laravel Livewire, VueJs 
 - Databases: Mysql
-- Deployment Platforms: AWS EC2, Heroku, DigitalOcean, and shared hostings like Hostgator, Bigrock, Godaddy, Hostinger etc
+- Deployment Platforms: AWS EC2, Heroku, DigitalOcean, and shared hostings like Hostgator, Bigrock, Godaddy, Hostinger, etc
 
-In addition to my technical skills, I also possess excellent communication and client management skills. I am proficient in project planning, task delegation, and team management. I have experience in onboarding and mentoring team members, maintaining team motivation and engagement, and conducting technical interviews and candidate evaluation.
-
-I am always looking for new and exciting development projects, and I am eager to apply my skills to help organizations achieve their goals. Please feel free to reach out to me if you have any questions or would like to discuss potential opportunities. Let's connect and collaborate to build something amazing!
+I'm a good communicator and team player. I can plan and execute projects, and I'm always looking for new challenges. Please contact me if you have any questions or opportunities.
 
 ### Contact
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cr-sanjay-singh/)
