@@ -1,6 +1,10 @@
 ## Hi there 👋
+<!--
+I am a Web Developer having good knowledge of Laravel, Vue3, CodeIgniter, API, MySQL, NodeJS, HTML, CSS, JavaScript, jQuery, Ajax, JSON, and Digital Marketing, and ready to learn any new framework to improve my skill set.
+-->
 
-I am a PHP Web Developer having good knowledge of Laravel, Vue3, CodeIgniter, API, MySQL, NodeJS, HTML, CSS, JavaScript, jQuery, Ajax, JSON, and Digital Marketing, and ready to learn any new framework to improve my skill set.
+Full-stack web developer with a strong foundation in Laravel, Vue.js, CodeIgniter, APIs, MySQL, Node.js, HTML, CSS, JavaScript, jQuery, Ajax, JSON, and digital marketing. Eager to learn new technologies and frameworks to stay ahead of the curve and deliver innovative solutions.
+
 
 ### I am proficient in the following technologies: 
 
