@@ -8,7 +8,7 @@ Full-stack web developer with a strong foundation in Laravel, Vue.js, CodeIgnite
 - Backend frameworks: Laravel, CodeIgniter, NodeJs
 - Languages: PHP and Javascript
 - Frontend Frameworks & Libraries: Bootstrap, Jquery, Laravel Livewire, VueJs, JavaScript 
-- Databases: Mysql
+- Databases: Mysql, MariaDB and SQL Lite
 - Deployment Platforms: AWS EC2, Heroku, DigitalOcean, and shared hostings like Hostgator, Bigrock, Godaddy, Hostinger, etc
 
 I'm a good communicator and team player. I can plan and execute projects, and I'm always looking for new challenges. Please contact me if you have any questions or opportunities.
